@@ -1,2 +1,2 @@
 # SuperStore_Returns
-Analyzed dataset to determine route cause of high return.
+Analyzed SuperStore return patterns by merging multiple data sources, converting inputs as needed, and identifying which products, regions, and time periods had elevated return rates. Built an interactive dashboard (e.g., in Tableau) to visualize return hotspots—such as problematic categories and geographic concentrations—to support strategic decisions on product quality and logistics.
